@@ -18,6 +18,6 @@ public class AbstractExecutor
 	s.show();
 	s=new Rectangle(10.0f,2.0f);
 	s.calArea();
-	s.show"();
+	s."show():
   }
 }
