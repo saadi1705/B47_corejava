@@ -7,6 +7,6 @@ public class LambdaWithParameters
 	int x=5;
 	Cube c=(int a)->{return (a*a*a);};
 	int res=c.calculate(x);
-	System.out.printlns(res);
-  }
+	System.out.println(res);
+  }
 }

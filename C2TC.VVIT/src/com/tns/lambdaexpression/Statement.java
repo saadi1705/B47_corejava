@@ -1,8 +1,7 @@
 package com.tns.lambdaexpression;
 
-@Functionalinterface
-
+@FunctionalInterface
 public interface Statement 
 {
-  public String greet();
+  public String greet();
 }
